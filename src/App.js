@@ -19,5 +19,5 @@ const App = () => {
     </Router>
   );
 };
-// element={authToken ? <HomePage authToken={authToken} handleLogout={handleLogout}/> : <Navigate to="/" />} />
+
 export default App;
